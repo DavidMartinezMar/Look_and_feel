@@ -310,7 +310,7 @@
          "enable":true
       },
       {
-         "item":"animation_s1f4_pro",
+         "item":"animation_s2l",
          "value":"",
          "url_report":"https://tpv-parameters.sp.smartpayment.com.mx/lt/print_report_BBVA.json",
          "url_insert":"https://tpv-parameters.sp.smartpayment.com.mx/lt/insert_slide_approach_BBVA.json",
