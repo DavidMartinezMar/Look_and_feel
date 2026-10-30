@@ -316,7 +316,7 @@
          "url_insert":"https://tpv-parameters.sp.smartpayment.com.mx/lt/insert_slide_approach_BBVA.json",
          "url_remove":"https://tpv-parameters.sp.smartpayment.com.mx/lt/remove_card.json",
          "url_loader":"https://tpv-parameters.sp.smartpayment.com.mx/lt/loader_BBVA.json",
-         "url_approve": "https://tpv-parameters.sp.smartpayment.com.mx/lt/loader_BBVA.json",
+         "url_approve": "https://raw.githubusercontent.com/DavidMartinezMar/Look_and_feel/refs/heads/main/simpleapprove.json",
          "url_advertising": "https://raw.githubusercontent.com/DavidMartinezMar/Look_and_feel/refs/heads/main/car.json",
          "enable":true
       },
